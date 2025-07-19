@@ -1,0 +1,55 @@
+{
+  "categorias": [
+    {
+      "id": "2",
+      "nome": "Parques",
+      "descricao": "Lugares para relaxar e se divertir"
+    },
+    {
+      "id": "3",
+      "nome": "Museus",
+      "descricao": "Cultura e história ao seu alcance"
+    },
+    {
+      "id": "4",
+      "nome": "Shopping",
+      "descricao": "Shopping Para fazer compras"
+    },
+    {
+      "id": "ac04",
+      "nome": "Praias",
+      "descricao": "Lugar para a familia"
+    },
+    {
+      "nome": "Lojas",
+      "descricao": "Lojas de Roupa",
+      "id": "QwYljtx"
+    }
+  ],
+  "lugares": [
+    {
+      "id": "fa3f",
+      "nome": "Bar do Zé",
+      "categoria": "Praias",
+      "localizacao": "Rio de Janeiro",
+      "urlFoto": "teste",
+      "avaliacao": ""
+    },
+    {
+      "id": "a1b2c3",
+      "nome": "Museu de Arte Moderna",
+      "categoria": "Museus",
+      "localizacao": "São Paulo",
+      "urlFoto": "https://example.com/museu.jpg",
+      "avaliacao": 4.5
+    },
+    {
+      "id": "d4e5f6",
+      "nome": "Parque Nacional",
+      "categoria": "Parques",
+      "localizacao": "Brasília",
+      "urlFoto": "https://example.com/parque.jpg",
+      "avaliacao": 4.8
+    }
+  ]
+}
