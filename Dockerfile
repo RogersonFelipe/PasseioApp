@@ -16,7 +16,7 @@ FROM nginx:alpine
 
 RUN rm -rf /usr/share/nginx/html/*
 
-COPY --from=BUILD /app/dist/passeio-app/ /usr/share/nginx/html
+COPY --from=BUILD /app/dist/passeio-app/browser /usr/share/nginx/html
 
 EXPOSE 80
 
